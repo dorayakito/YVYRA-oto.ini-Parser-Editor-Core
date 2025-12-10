@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 name = "yvyra"
 version = "0.1.0"
 authors = [
-  { name="Seu Nome", email="seu@email.com" },
+  { name="Dorayakito", email="dorayakito@duck.com" },
 ]
 description = "Biblioteca leve para manipulação de arquivos oto.ini"
 readme = "README.md"
